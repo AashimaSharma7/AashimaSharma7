@@ -29,6 +29,9 @@ I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of 
 - LinkedIn: [Aashima Sharma](https://www.linkedin.com/in/aashima-sharma25)
 - GitHub: [AashimaSharma7](https://github.com/AashimaSharma7)
 - Email: [aashima127s@gmail.com](mailto:aashima127s@gmail.com)
+-[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://x.com/its_Aashi27)
+
+
 
 ---
 
