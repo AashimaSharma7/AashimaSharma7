@@ -71,6 +71,7 @@ I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of 
 
 ---
 
+<!--
 ## 📂 Projects
 
 ### CALADVISER: FOOD CALORIE ADVISOR
@@ -84,7 +85,7 @@ I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of 
 ### WEATHERACT: WEATHER PREDICTION AND TRAVEL RECOMMENDATION WEBSITE
 - **Description:** Built a weather prediction and travel recommendation website offering accurate forecasts and destination suggestions based on user-specified weather conditions.
 - **Tech Stack:** HTML, CSS, Bootstrap, Python, Django, ML
-
+-->
 ---
 
 ## 🏆 Achievements
