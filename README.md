@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of Things) at the University School of Automation and Robotics, GGSIPU. I have a strong interest in Generative AI, LLMs, LangChain, and AI/machine learning, and I love working on innovative projects in these areas.
 
 ---
-
+- 🌱 I’m currently learning Next.Js
+- 👯 I’m looking to collaborate on Web Dev and GenAI projects
+---
 ## 🌐 Connect with Me
 
 - LinkedIn: [Aashima Sharma](https://www.linkedin.com/in/aashima-sharma25)
@@ -115,12 +117,12 @@ I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of 
 
 ---
 
-## 🛠️ Positions of Responsibility
+<!--## 🛠️ Positions of Responsibility
 
 - Lead my team of 4 in Hackathons in which we got among the top 10 participants
 - PR team head at Elysian’23 (annual tech-fest of GGSIPU, East Delhi Campus)
-- Internshala Student Program Campus Ambassador 2023 GGSIPU
+- Internshala Student Program Campus Ambassador 2023 GGSIPU 
 
----
-
+--- 
+-->
 Feel free to explore my repositories and projects. Let's connect and collaborate on exciting projects!
