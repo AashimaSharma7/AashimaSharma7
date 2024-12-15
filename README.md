@@ -82,11 +82,13 @@ I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of 
 ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-339933?style=for-the-badge)
 
+--- 
+
 ## Large Language Models (LLMs) I've Worked With
 
 ### Proprietary LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-0084FF?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FFB900?style=for-the-badge&logo=anthropic&logoColor=white)
+<!--![Claude](https://img.shields.io/badge/Claude-FFB900?style=for-the-badge&logo=anthropic&logoColor=white)-->
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Open-Source LLMs
