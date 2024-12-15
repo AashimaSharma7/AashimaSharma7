@@ -39,12 +39,16 @@ I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of 
 
 ## 🚀 Technical Skills
 
-### Languages
+### Languages I Work With
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AashimaSharma7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -78,8 +82,19 @@ I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of 
 ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-339933?style=for-the-badge)
 
+## Large Language Models (LLMs) I've Worked With
 
----
+### Proprietary LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-0084FF?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FFB900?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Open-Source LLMs
+![Llama](https://img.shields.io/badge/Llama-FF5C39?style=for-the-badge&logo=llama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-0078D4?style=for-the-badge&logo=ollama&logoColor=white)
+<!--![Other OSS Models](https://img.shields.io/badge/Open_Source_LLMs-FF4F00?style=for-the-badge&logo=data:image/svg+xml;base64,<your-custom-encoded-svg>)-->
+
+
 
 <!--
 ## 📂 Projects
