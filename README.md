@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## About Me 🌟
 
-I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of Things) at the University School of Automation and Robotics, GGSIPU. I have a strong interest in Generative AI, LLMs, LangChain, and AI/machine learning, and I love working on innovative projects in these areas.
+I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of Things) at the University School of Automation and Robotics, GGSIPU. I have a strong interest in Generative AI, LLMs, NLP, and AI/machine learning, and I love working on innovative projects in these areas.
 
 ---
 - 🌱 I’m currently learning Next.Js
