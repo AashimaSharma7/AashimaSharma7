@@ -44,7 +44,7 @@ I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-228B22?style=for-the-badge&logo=java&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AashimaSharma7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -58,6 +58,8 @@ I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
 
 ### Tools
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -68,32 +70,50 @@ I am currently pursuing a Bachelor of Technology in CSE (Industrial Internet of 
 
 
 ### Frameworks
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-367588?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-5645C4?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-232B2B?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-367588?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+--- 
+
+
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4F00?style=for-the-badge&logo=qdrant&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-339933?style=for-the-badge)
-
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-007C74?style=for-the-badge) 
+![Pinecone](https://img.shields.io/badge/Pinecone-0A6B4A?style=for-the-badge&logo=pinecone&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 --- 
 
 ## Large Language Models (LLMs) I've Worked With
 
 ### Proprietary LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-0084FF?style=for-the-badge&logo=openai&logoColor=white)
-<!--![Claude](https://img.shields.io/badge/Claude-FFB900?style=for-the-badge&logo=anthropic&logoColor=white)-->
+![OpenAI- GPT](https://img.shields.io/badge/OpenAI-0084FF?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AWS Nova](https://img.shields.io/badge/AWS_Nova-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Anthropic- Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+---
+### STT AND TTS models
+![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-1E88E5?style=for-the-badge&logo=&logoColor=white)
+![OpenAI Whisper](https://img.shields.io/badge/Whisper-7B4FFF?style=for-the-badge&logo=openai&logoColor=white)
+![AWS Polly](https://img.shields.io/badge/Amazon_Polly-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+
 
 ### Open-Source LLMs
 ![Llama](https://img.shields.io/badge/Llama-FF5C39?style=for-the-badge&logo=llama&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-0078D4?style=for-the-badge&logo=ollama&logoColor=white)
+![Deepseek](https://img.shields.io/badge/Deepseek-2B6CB4?style=for-the-badge&logo=deepseek&logoColor=white)
+
 <!--![Other OSS Models](https://img.shields.io/badge/Open_Source_LLMs-FF4F00?style=for-the-badge&logo=data:image/svg+xml;base64,<your-custom-encoded-svg>)-->
 
 
