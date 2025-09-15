@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 ## About Me 🌟
-I am a GenAI and Machine Learning engineer and a developer passionate about transforming ideas into intelligent, scalable systems through a product-first approach. I specialize in blending systems thinking, creative problem-solving, and emerging tech to build impactful, user-centric solutions.
+I am a GenAI/ Machine Learning engineer and a developer passionate about transforming ideas into intelligent, scalable systems through a product-first approach. I specialize in blending systems thinking, creative problem-solving, and emerging tech to build impactful, user-centric solutions.
 
 I have a strong interest in AI and development, and I love working on innovative projects in these areas.
 ---
