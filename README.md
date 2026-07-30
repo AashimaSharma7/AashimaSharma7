@@ -23,7 +23,7 @@ I am a GenAI/ Machine Learning engineer and a developer passionate about transfo
 
 I have a strong interest in AI and development, and I love working on innovative projects in these areas.
 ---
-- 🌱 I’m currently learning Next.Js
+<!--- 🌱 I’m currently learning Next.Js--->
 - 👯 I’m looking to collaborate on Web Dev and GenAI projects
 ---
 ## 🌐 Connect with Me
